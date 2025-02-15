@@ -1,5 +1,7 @@
 # Vlog - A Blogging Application
-
+![Image](https://github.com/user-attachments/assets/be384adf-f042-4232-9b6a-1048ea37674f)
+![Image](https://github.com/user-attachments/assets/4d84436f-9c65-4ab0-a1c1-4e247bd698a6)
+![Image](https://github.com/user-attachments/assets/b3aba1bc-96dc-43a1-be42-66b228041a5b)
 
 I made this blog app as my interview task for [Ekbana](https://ekbana.com/).
 so, I've only done **limited features** that I was asked to do within **3 days**.
