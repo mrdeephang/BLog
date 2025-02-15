@@ -1,8 +1,5 @@
 # Vlog - A Blogging Application
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suzan-Dev/vlog/main/client/public/lighthouse-report.png">
-</p>
 
 I made this blog app as my interview task for [Ekbana](https://ekbana.com/).
 so, I've only done **limited features** that I was asked to do within **3 days**.
@@ -96,7 +93,7 @@ Check in browser on [http://localhost:3000/](http://localhost:3000/)
 
 ### Author
 
-[Sujan Tamang](http://sujantmg.com.np)
+Deephang Thegim
 
 ### Version
 
