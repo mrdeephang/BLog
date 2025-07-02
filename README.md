@@ -19,7 +19,7 @@
 - [Material-UI](https://material-ui.com/) as a UI component library
 - [react-markdown](https://github.com/remarkjs/react-markdown) as a markdown parser and renderer
 
-## Things to consider 🤔
+## Things to consider 
 
 - Used own Backend.
 - Used **JavaScript** instead of **TypeScript** as I think for small projects and working alone, TypeScript is **overkill**.
@@ -29,7 +29,7 @@
 - UI is **inspired** by various **design resources** from internet.
 - The whole app is **responsive**.
 
-## Quick Start 🚀
+## Quick Start 
 
 ### Clone the repo
 
@@ -86,7 +86,7 @@ yarn dev (For local development, not recommended when testing)
 
 Check in browser on [http://localhost:3000/](http://localhost:3000/)
 
-## App Info ℹ️
+## App Info 
 
 ### Author
 
